@@ -42,4 +42,3 @@ actor.name = "大泉"
 actor.address = "北海道"
 
 actor.show()
-
